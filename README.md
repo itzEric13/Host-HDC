@@ -1,5 +1,10 @@
 # hDC Host
 
+## Vizualize o documento :
+https://host-hdc-one.vercel.app/#
+
+## Sobre o site
+
 hDC Host é um site de apresentação para uma empresa de hospedagem. O site oferece uma interface para visualização de planos, serviços e contato com a empresa. Esta documentação fornece uma visão geral sobre como o site está estruturado e como o código é organizado.
 
 ## Estrutura do Projeto
@@ -38,5 +43,4 @@ Este arquivo define o estilo visual do site. Os principais pontos incluem:
 
 O projeto utiliza a biblioteca Font Awesome para ícones, carregada a partir do CDN:
 
-## Vizualize o documento :
-https://host-hdc-one.vercel.app/#
+
