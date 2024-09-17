@@ -38,3 +38,5 @@ Este arquivo define o estilo visual do site. Os principais pontos incluem:
 
 O projeto utiliza a biblioteca Font Awesome para ícones, carregada a partir do CDN:
 
+## Vizualize o documento :
+https://host-hdc-one.vercel.app/#
